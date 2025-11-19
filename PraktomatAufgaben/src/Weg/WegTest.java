@@ -1,0 +1,17 @@
+package Weg;
+
+public class WegTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Weg w1 = new Weg(1, 1);
+		Weg w2 = new Weg(2, 2);
+
+		System.out.println(w1.toString());
+		System.out.println(w2.toString());
+
+		w1.verlaengern(w2);
+		System.out.println(w1.toString());
+	}
+
+}

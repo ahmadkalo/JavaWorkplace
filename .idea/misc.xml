@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/PraktomatAufgaben/SoftwareEngineering/pom.xml" />
+        <option value="$PROJECT_DIR$/Examples/SoftwareEngineering/pom.xml" />
+        <option value="$PROJECT_DIR$/EidpKlausurAufgaben/SoftwareEngineering/pom.xml" />
+        <option value="$PROJECT_DIR$/Übungsaufgaben/SoftwareEngineering/pom.xml" />
+        <option value="$PROJECT_DIR$/Übungsaufgaben/SoftwareEngineering1/pom.xml" />
+        <option value="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/SoftwareEngineering/pom.xml" />
+        <option value="$PROJECT_DIR$/SoftwareEngineering/Tesss/pom.xml" />
+        <option value="$PROJECT_DIR$/Pro2/pom.xml" />
+        <option value="$PROJECT_DIR$/Prog2/pom.xml" />
+        <option value="$PROJECT_DIR$/SoftwareEngineering/Programmierung2/pom.xml" />
+        <option value="$PROJECT_DIR$/Programmierung2/pom.xml" />
+        <option value="$PROJECT_DIR$/EidpKlausurAufgaben/pom.xml" />
+        <option value="$PROJECT_DIR$/Examples/pom.xml" />
+        <option value="$PROJECT_DIR$/../IntegrationArchitectures/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../IntegrationArchitectures/pom.xml" />
+        <option value="$PROJECT_DIR$/EidpKlausurAufgaben/SoftwareEngineering/pom.xml" />
+        <option value="$PROJECT_DIR$/EidpKlausurAufgaben/pom.xml" />
+        <option value="$PROJECT_DIR$/Examples/SoftwareEngineering/pom.xml" />
+        <option value="$PROJECT_DIR$/PraktomatAufgaben/SoftwareEngineering/pom.xml" />
+        <option value="$PROJECT_DIR$/Pro2/pom.xml" />
+        <option value="$PROJECT_DIR$/Prog2/pom.xml" />
+        <option value="$PROJECT_DIR$/Programmierung2/pom.xml" />
+        <option value="$PROJECT_DIR$/SoftwareEngineering/Programmierung2/pom.xml" />
+        <option value="$PROJECT_DIR$/SoftwareEngineering/Tesss/pom.xml" />
+        <option value="$PROJECT_DIR$/SoftwareEngineering/pom.xml" />
+        <option value="$PROJECT_DIR$/Übungsaufgaben/SoftwareEngineering/pom.xml" />
+        <option value="$PROJECT_DIR$/Übungsaufgaben/SoftwareEngineering1/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

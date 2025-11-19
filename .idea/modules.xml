@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EidpKlausurAufgaben/EidpKlausurAufgaben.iml" filepath="$PROJECT_DIR$/EidpKlausurAufgaben/EidpKlausurAufgaben.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EidpWiederholung/EidpWiederholung.iml" filepath="$PROJECT_DIR$/EidpWiederholung/EidpWiederholung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Example/Example.iml" filepath="$PROJECT_DIR$/Example/Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KreativAufgaben/Kreativaufgaben.iml" filepath="$PROJECT_DIR$/KreativAufgaben/Kreativaufgaben.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objektorientierung/Objektorientierung.iml" filepath="$PROJECT_DIR$/Objektorientierung/Objektorientierung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PraktomatAufgaben/PraktomatAufgaben.iml" filepath="$PROJECT_DIR$/PraktomatAufgaben/PraktomatAufgaben.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prog2/Prog2.iml" filepath="$PROJECT_DIR$/Prog2/Prog2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoftwareEngineering/SoftwareEngineering.iml" filepath="$PROJECT_DIR$/SoftwareEngineering/SoftwareEngineering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uebungsaufgaben/Uebungsaufgaben.iml" filepath="$PROJECT_DIR$/Uebungsaufgaben/Uebungsaufgaben.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserInterface/UserInterface.iml" filepath="$PROJECT_DIR$/UserInterface/UserInterface.iml" />
+    </modules>
+  </component>
+</project>
