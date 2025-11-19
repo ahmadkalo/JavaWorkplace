@@ -35,7 +35,7 @@ public class Main {
 					Person temp = people[j];
 					people[j] = people[j + 1];
 					people[j + 1] = temp;
-				}
+				} //// test
 			}
 		}
 	}
